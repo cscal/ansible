@@ -1,0 +1,9 @@
+[ansible-master]
+192.168.2.232
+
+[web]
+192.168.2.234
+
+[combined:servers]
+ansible-master
+web
